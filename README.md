@@ -119,7 +119,7 @@ life-expectancy-gdp/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone [<your-github-repository-url>](https://github.com/TekMasterSciences/life-expectancy-gdp-analysis.git)
 cd life-expectancy-gdp-analysis
 ```
 
