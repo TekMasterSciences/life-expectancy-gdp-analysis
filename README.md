@@ -93,6 +93,7 @@ life-expectancy-gdp/
 │   ├── life_expectancy_trends.png
 │   ├── gdp_trends.png
 │   └── gdp_growth_vs_life_expectancy_improvement.png
+|   └── gdp_vs_life_expectancy_relationship.png
 ├── reports/
 │   └── life_expectancy_gdp_analysis_case_study.pdf
 ├── requirements.txt
@@ -119,7 +120,7 @@ life-expectancy-gdp/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone [<your-github-repository-url>](https://github.com/TekMasterSciences/life-expectancy-gdp-analysis.git)
 cd life-expectancy-gdp-analysis
 ```
 
